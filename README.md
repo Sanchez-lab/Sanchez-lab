@@ -1,22 +1,22 @@
-#Hola soy matias sanchez
+Hola soy matias sanchez
 
 ---
-#Descripcion 
+Descripcion 
 
 ---
 Soy una persona que siempre le gusta aprender y soy tranquilo
 
 
 ---
-#Gustos
+Gustos
 
 ---
-☆ me gusta mucho el fútbol
-☆ me gusta dormir 
+☆ me gusta mucho el ⚽️ 
+☆ me gusta dormir 😴 
 ☆ me gusta jugar a la play
-☆ me gusta la música 
+☆ me gusta la 🎶 
 ☆ me gusta ver documentales
 
 ---
-#Aspiraciones
+Aspiraciones
 Me gustaría estudiar periodismo deportivo o licenciatura en ciencias de la comunicación y también quisiera aprender más de programacion
