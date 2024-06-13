@@ -1,6 +1,22 @@
-Descripcion
-soy matias sanchez soy una persona que siempre quiere aprender
-me gusta mucho el fútbol y los juegos en línea 
-me gustaría aprender más de programacion
-😃
-ig:https://www.instagram.com/matiasaguastinsanchezflores?igsh=anFsOTd6Mzd4aWE3
+#Hola soy matias sanchez
+
+---
+#Descripcion 
+
+---
+Soy una persona que siempre le gusta aprender y soy tranquilo
+
+
+---
+#Gustos
+
+---
+☆ me gusta mucho el fútbol
+☆ me gusta dormir 
+☆ me gusta jugar a la play
+☆ me gusta la música 
+☆ me gusta ver documentales
+
+---
+#Aspiraciones
+Me gustaría estudiar periodismo deportivo o licenciatura en ciencias de la comunicación y también quisiera aprender más de programacion
